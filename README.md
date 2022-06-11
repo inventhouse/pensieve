@@ -27,7 +27,6 @@ Visitor's Guide
 
 - Make your own with the [pensive template on GitHub](https://github.com/inventhouse/pensieve).
 - This "visitor's guide" helps collaborators get oriented, if you choose to share your pensieve with anyone.
-- [Here are slides](Annex/Paving%20the%20Bare%20Spots%20To%20Build%20a%20Muggle%20Pensieve.pdf) from a lightning talk I gave about this repository.
 - [`git send`](https://github.com/inventhouse/bettergit#git-save) is _extremely_ helpful for making quick commits _quickly_; all of my [bettergit tools](https://github.com/inventhouse/bettergit) and [allgit](https://github.com/inventhouse/allgit) are also recommended.
 
 ---

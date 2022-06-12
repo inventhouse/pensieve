@@ -26,7 +26,9 @@ Visitor's Guide
 ### Making Your Own Pensieve
 
 - Make your own with the [pensive template on GitHub](https://github.com/inventhouse/pensieve).
-- This "visitor's guide" helps collaborators get oriented, if you choose to share your pensieve with anyone.
+- Add, delete, or rewrite files and directories to suit your needs; the template's structure has served me very well, but your workflow may be different.
+- This "visitor's guide" helps collaborators get oriented if you choose to share your pensieve with anyone.
+- I find [VSCode's](https://code.visualstudio.com/) outline view, [notebook support](https://code.visualstudio.com/docs/datascience/jupyter-notebooks), syntax coloring, project-wide search, and many other features extremely useful.  On the other hand, you can use any editor you like, or even work with your pensieve entirely through GitHub's web UI.
 - [`git send`](https://github.com/inventhouse/bettergit#git-save) is _extremely_ helpful for making quick commits _quickly_; all of my [bettergit tools](https://github.com/inventhouse/bettergit) and [allgit](https://github.com/inventhouse/allgit) are also recommended.
 
 ---

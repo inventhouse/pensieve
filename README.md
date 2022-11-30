@@ -11,7 +11,7 @@ Visitor's Guide
 
 - __[README.md](./README.md):__  ⇦ You are here.
 
-- __[Notes](./Notes):__  Like it says: notes, documents, tutorials, thoughts, recipies, ...; some notable ones are:
+- __[Notes](./Notes):__  Like it says: notes, documents, tutorials, thoughts, recipes, ...; some notable ones are:
     - __[000Notes](./Notes/000Notes.md):__  Active notes file, new stuff usually enters here and occasionally gets moved out into other files; newest stuff is near the top.
 
 - __[Lab](./Lab):__  One-off tests, experiments, proofs-of-concept; island of misfit toys
@@ -25,7 +25,7 @@ Visitor's Guide
 
 ### Making Your Own Pensieve
 
-- Make your own with the [pensive template on GitHub](https://github.com/inventhouse/pensieve).
+- Make your own with the [pensieve template on GitHub](https://github.com/inventhouse/pensieve).
 - Add, delete, or rewrite files and directories to suit your needs; the template's structure has served me very well, but your workflow may be different.
 - This "visitor's guide" helps collaborators get oriented if you choose to share your pensieve with anyone.
 - I find [VSCode's](https://code.visualstudio.com/) outline view, [notebook support](https://code.visualstudio.com/docs/datascience/jupyter-notebooks), syntax coloring, project-wide search, and many other features extremely useful.  On the other hand, you can use any editor you like, or even work with your pensieve entirely through GitHub's web UI.
